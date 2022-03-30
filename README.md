@@ -1,2 +1,2 @@
-This is an MIT course project. 
-The project is Pacman. Unlike the game, this example is a more basic display of code simulation. 
+Name: Pacman Simulation/MIT Course Project
+Description: Unlike the Pacman game, this is a basic code simulation that exists within the MIT xPRO course.
